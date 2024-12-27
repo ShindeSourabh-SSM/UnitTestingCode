@@ -23,7 +23,7 @@ This repository demonstrates unit testing in Spring Boot applications using JUni
 ### Screenshot of output in console after running application
 
 ## Junit testing with no error showing green line
-![Screenshot 2024-12-27 205131](https://github.com/user-attachments/assets/892833f4-2812-490c-a300-dd2fe2f3efd0)
+![Screenshot 2024-12-27 205649](https://github.com/user-attachments/assets/8c0f27c0-8ddd-4e63-93f5-fc4880467fe3)
 
 ## Junit testing with error showing red line
 ![Screenshot 2024-12-27 205825](https://github.com/user-attachments/assets/c0e279b8-879e-40fb-9225-d65f10df42f4)
@@ -35,7 +35,7 @@ This repository demonstrates unit testing in Spring Boot applications using JUni
 ![Screenshot 2024-12-27 205227](https://github.com/user-attachments/assets/9f799b71-9339-47db-a022-0090616c5d96)
 
 ## Mockito used code and Junit testing with no error showing green line
-![Screenshot 2024-12-27 205649](https://github.com/user-attachments/assets/8c0f27c0-8ddd-4e63-93f5-fc4880467fe3)
+![Screenshot 2024-12-27 205131](https://github.com/user-attachments/assets/892833f4-2812-490c-a300-dd2fe2f3efd0)
 
 
 Code is done to test the working of Unit Testing - (Mockito + JUnit)
